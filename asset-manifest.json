@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doit_responsive_web/static/css/main.775d17d0.css",
+    "main.js": "/doit_responsive_web/static/js/main.1c715c90.js",
+    "index.html": "/doit_responsive_web/index.html",
+    "main.775d17d0.css.map": "/doit_responsive_web/static/css/main.775d17d0.css.map",
+    "main.1c715c90.js.map": "/doit_responsive_web/static/js/main.1c715c90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775d17d0.css",
+    "static/js/main.1c715c90.js"
+  ]
+}
